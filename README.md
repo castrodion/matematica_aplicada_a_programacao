@@ -1,4 +1,5 @@
 Introdução
+
 O projeto da disciplina envolve duas atividades diferentes relacionadas à Matemática Computacional.
 
 Na primeira fase, você deverá aplicar os conceitos trabalhados em Lógica Proposicional para explorar circuitos de portas lógicas. Na segunda fase você deverá desenvolver uma proposta relacionada à área de Álgebra Linear, utilizando sistemas de equações lineares.
