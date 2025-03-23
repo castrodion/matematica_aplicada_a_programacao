@@ -20,8 +20,7 @@ porta E, correspondendo à conjunção, usualmente denotada pelo símbolo “ �
 porta OU, correspondendo à disjunção, usualmente denotada pelo símbolo “ + ”; 
 inversor, eventualmente denominado porta NÃO, correspondendo à negação, usualmente denotado pelo símbolo “ ʹ ”. 
 
-d30cfc29cc867d512fa7ed35e3f50a3e.jpg
-
+![image](https://github.com/user-attachments/assets/4ac8ea00-425e-4745-b2ae-85fe4cd08f0b)
 
 Expressões diferentes (e com diferentes diagramas de circuitos) podem ser equivalentes, ou seja, podem implementar a mesma função lógica. Assim, outro ponto de fundamental importância na construção de circuitos são as técnicas de minimização de expressões lógicas, através da aplicação das propriedades.
 
